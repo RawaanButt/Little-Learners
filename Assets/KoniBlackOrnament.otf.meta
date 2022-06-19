@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3bb04a5321a90d5418a5a4d71518b148
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoniOrnament
+  fontNames:
+  - KoniOrnament
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0112e528f0842fe49a07e4326939c4c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

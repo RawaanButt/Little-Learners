@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0d0214a154f076b4986c1b0da5d20a6b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VAG Rounded
+  fontNames:
+  - VAG Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 162e14f6ca15a9044a668a9519590c9a, type: 3}
+  - {fileID: 12800000, guid: 9660508b980a08d40a691fddf31df747, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

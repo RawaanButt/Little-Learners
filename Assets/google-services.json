@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506284577746",
+    "firebase_url": "https://game-9bfc3.firebaseio.com",
+    "project_id": "game-9bfc3",
+    "storage_bucket": "game-9bfc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506284577746:android:1418b62aea7c9403abee0b",
+        "android_client_info": {
+          "package_name": "com.fyp.tinyhands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506284577746-mlcmq0icvg83nnka6urbi2ah1ttnnre9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_NjyYcoPgV6IyhS2CcoVukocSTXD1nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506284577746-mlcmq0icvg83nnka6urbi2ah1ttnnre9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

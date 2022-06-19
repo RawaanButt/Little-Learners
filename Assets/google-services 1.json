@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634216706964",
+    "firebase_url": "https://test-b8c15-default-rtdb.firebaseio.com",
+    "project_id": "test-b8c15",
+    "storage_bucket": "test-b8c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634216706964:android:5469b81a93cc3cf0c89581",
+        "android_client_info": {
+          "package_name": "com.fyp.tinyhands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634216706964-smngeebthrbc07p8dvarbp2d5hcjroah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.tinyhands",
+            "certificate_hash": "29d604605b8684decfc54a93b9277302012e8ecf"
+          }
+        },
+        {
+          "client_id": "634216706964-kbm7ctkgbopudbekovi7uktdc2ago9vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sQ2bOIq_iQmYtAsmlfl0mjdsT5Zbwhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634216706964-kbm7ctkgbopudbekovi7uktdc2ago9vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

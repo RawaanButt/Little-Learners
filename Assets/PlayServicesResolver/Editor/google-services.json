@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14383949777",
+    "firebase_url": "https://little-learners-2022-default-rtdb.firebaseio.com",
+    "project_id": "little-learners-2022",
+    "storage_bucket": "little-learners-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14383949777:android:2e3c0ee9afd35791ad62f0",
+        "android_client_info": {
+          "package_name": "com.firebase.littleleraners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14383949777-n2fan748qdr3fjh8oog96r5uaep98rq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGSpBUf5jY5mQKg4pRAIuQE0w65GoAYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14383949777-n2fan748qdr3fjh8oog96r5uaep98rq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14383949777-1uo8ihvr8vrb8r6stl1horlttns9l5jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebase.littleleraners"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

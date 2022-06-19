@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3b72ab86cce36e48a55f5c72d583259
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laser: {fileID: 2076507439746666893, guid: 236c49211ef38ea4eae819f2a3fdc17a, type: 3}
+  - tripleshot: {fileID: 3400359653865154856, guid: f39ca457c95c03c439811f634a6370f7, type: 3}
+  - explosion: {instanceID: 0}
+  - sheildActive: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

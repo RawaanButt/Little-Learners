@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5fd93a20fff3b464da5eec05d1fb5ca4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Koni
+  fontNames:
+  - Koni
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33e61174fc8895148988fada67a01302, type: 3}
+  - {fileID: 12800000, guid: dd96b3dc4028e50468985b37de31aa83, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

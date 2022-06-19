@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0112e528f0842fe49a07e4326939c4c4
+timeCreated: 1571321612
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoniOrnament
+  fontNames:
+  - KoniOrnament
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

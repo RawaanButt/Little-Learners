@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/New folder/Loading Screen.unity
+    guid: 60c440dba5f28f64e9fd05a0d5f716ff
+  - enabled: 1
+    path: Assets/Scenes/New folder/login screen.unity
+    guid: 6bf7abca4d2de9d419483e79561e8bea
+  - enabled: 1
+    path: Assets/Scenes/New folder/Registraion.unity
+    guid: ba4fc3c76bb1e85409be16bf0307e59f
+  - enabled: 1
+    path: Assets/Scenes/New folder/Mian Menu.unity
+    guid: ad0a3ef7574441d4ea3d9b76f8f028cf
+  - enabled: 1
+    path: Assets/Scenes/New folder/New.unity
+    guid: 87581047558ffc241923f3f7a5d2b4dd
+  - enabled: 1
+    path: Assets/Scenes/New folder/Sortingex.unity
+    guid: 00cd70c2f1b7c7699becaddf31c87af3
+  - enabled: 1
+    path: Assets/Scenes/New folder/Game Selection.unity
+    guid: cf9da67f842cd8a43b01b8b1e14c7452
+  - enabled: 1
+    path: Assets/Scenes/New folder/game2l1.unity
+    guid: 094d977eb969c3e4293a562ddc6d0cac
+  - enabled: 1
+    path: Assets/Scenes/New folder/game3l1.unity
+    guid: 33684abc098f32947a03508f68318ce1
+  - enabled: 1
+    path: Assets/Scenes/New folder/game4l1.unity
+    guid: 1b0b80cc347b1004bbd9520ae134d49b
+  - enabled: 1
+    path: Assets/Scenes/New folder/game5l1.unity
+    guid: 5446dd5b5e761cb409a7f071044d3645
+  - enabled: 1
+    path: Assets/Scenes/New folder/game6l1.unity
+    guid: 9cde4f1ba58bc3c40a803543e9355624
+  - enabled: 1
+    path: Assets/Scenes/New folder/game7l1.unity
+    guid: c1d9dde07491f4f418568f84ea2a1e6d
+  - enabled: 1
+    path: Assets/Scenes/New folder/GalaxyShooter.unity
+    guid: 2169450c1215f8346836a9069146c202
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/MultiplayerRooms.unity
+    guid: 90e74e2fac54e824599be06667ee7ba9
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/game7l1Multiplayer.unity
+    guid: 719b852a9e7dabe44a76f6917ab72507
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/game6l1Multiplayer.unity
+    guid: 0127a81f65bb2ff49b1fbb8d091f3a05
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/game5l1Multiplayer.unity
+    guid: 5419a35f27c7ab64187ba7171ac3af04
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/game4l1Multiplayer.unity
+    guid: 515327f8391541f49a10e2dae70fc307
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/game3l1Multiplayer.unity
+    guid: 7fe9897f8e434004bae812753ee3aeb0
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/game2l1Multiplayer.unity
+    guid: 7e1644467ceaeb24cb5ae136749dd840
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/Game Selection Multiplayer.unity
+    guid: 366af0d5d636e6241a95373a5e782950
+  - enabled: 1
+    path: Assets/Scenes/New folder/MultilpayerScenes/NewMultiplayer.unity
+    guid: 53204ad40bc9c4945a5e15213f428055
+  - enabled: 1
+    path: Assets/Scenes/New folder/Admin login 1.unity
+    guid: 921204d114fa3184a9a1056da34b332e
+  - enabled: 1
+    path: Assets/Scenes/New folder/Admin Record Search.unity
+    guid: e29468d95dbfcc442b2a3533b847e786
+  - enabled: 1
+    path: Assets/Scenes/New folder/Admin Registration.unity
+    guid: beca1a8e9170b464da57e9f5a8135a5c
+  m_configObjects: {}
